@@ -28,7 +28,7 @@ and managing patient details while enhancing the quality of patient care.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/clinical-data-management-app.git
+   git clone https://github.com/Anand-singh97/clinical-data-management-app.git
 
 Usage
 Launch the application.

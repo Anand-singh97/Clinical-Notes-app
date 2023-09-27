@@ -1,0 +1,60 @@
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.exe
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.deps.json
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.runtimeconfig.json
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.AssemblyReference.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.MainForm.resources
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.GenerateResource.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.AssemblyInfoInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.AssemblyInfo.cs
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.CoreCompileInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\refint\Encounter_notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.genruntimeconfig.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\ref\Encounter_notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\bin\Debug\net6.0-windows\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\bin\Debug\net6.0-windows\Patient_Notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.CopyComplete
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.exe
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.deps.json
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.runtimeconfig.json
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\bin\Debug\net6.0-windows\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\bin\Debug\net6.0-windows\Patient_Notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.AssemblyReference.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.MainForm.resources
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.GenerateResource.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.AssemblyInfoInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.AssemblyInfo.cs
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.CoreCompileInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.CopyComplete
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\refint\Encounter_notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.genruntimeconfig.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Encounter_notes\obj\Debug\net6.0-windows\ref\Encounter_notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.exe
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.deps.json
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.runtimeconfig.json
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\bin\Debug\net6.0-windows\Encounter_notes.pdb
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\bin\Debug\net6.0-windows\Patient_Notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\bin\Debug\net6.0-windows\Patient_Notes.pdb
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.AssemblyReference.cache
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.MainForm.resources
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.GenerateResource.cache
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.AssemblyInfoInputs.cache
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.AssemblyInfo.cs
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.CoreCompileInputs.cache
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.csproj.CopyComplete
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\refint\Encounter_notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.pdb
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\Encounter_notes.genruntimeconfig.cache
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Encounter_notes\obj\Debug\net6.0-windows\ref\Encounter_notes.dll

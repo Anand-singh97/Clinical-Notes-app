@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Encounter_notes/1.0.0": {
+        "dependencies": {
+          "Patient_Notes": "1.0.0"
+        },
+        "runtime": {
+          "Encounter_notes.dll": {}
+        }
+      },
+      "Patient_Notes/1.0.0": {
+        "runtime": {
+          "Patient_Notes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encounter_notes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Patient_Notes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

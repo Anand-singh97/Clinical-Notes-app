@@ -1,0 +1,35 @@
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\bin\Debug\net6.0\Patient_Notes.deps.json
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\bin\Debug\net6.0\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\bin\Debug\net6.0\Patient_Notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\Patient_Notes.csproj.AssemblyReference.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\Patient_Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\Patient_Notes.AssemblyInfoInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\Patient_Notes.AssemblyInfo.cs
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\Patient_Notes.csproj.CoreCompileInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\refint\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\Patient_Notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming\Encounter_notes\Patient_Notes\obj\Debug\net6.0\ref\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\bin\Debug\net6.0\Patient_Notes.deps.json
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\bin\Debug\net6.0\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\bin\Debug\net6.0\Patient_Notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\Patient_Notes.csproj.AssemblyReference.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\Patient_Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\Patient_Notes.AssemblyInfoInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\Patient_Notes.AssemblyInfo.cs
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\Patient_Notes.csproj.CoreCompileInputs.cache
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\refint\Patient_Notes.dll
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\Patient_Notes.pdb
+C:\Users\guest 97\Desktop\Assignment-3 Programming - Copy\Patient_Notes\obj\Debug\net6.0\ref\Patient_Notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\bin\Debug\net6.0\Patient_Notes.deps.json
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\bin\Debug\net6.0\Patient_Notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\bin\Debug\net6.0\Patient_Notes.pdb
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\Patient_Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\Patient_Notes.AssemblyInfoInputs.cache
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\Patient_Notes.AssemblyInfo.cs
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\Patient_Notes.csproj.CoreCompileInputs.cache
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\Patient_Notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\refint\Patient_Notes.dll
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\Patient_Notes.pdb
+C:\Users\guest 97\Downloads\Assignment-3 Programming - Final (1)\Assignment-3 Programming - Final\Patient_Notes\obj\Debug\net6.0\ref\Patient_Notes.dll
